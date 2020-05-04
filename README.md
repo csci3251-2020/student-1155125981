@@ -25,3 +25,4 @@ Computer Science
 | CSCI3250 | A++++++++ |
 
 **The screenshot you want:** 
+![](https://github.com/csci3251-2020/student-1155125981/blob/master/CSCI3251%20Milestone2.png?raw=true)
