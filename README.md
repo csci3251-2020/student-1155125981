@@ -18,6 +18,7 @@ Computer Science
 
 ## My expected grade in this semster
 | Course | Grade |
+| -------- | --------- |
 | CSCI2100 | f |
 | ENGG2430 | f |
 | CSCI3251 | Pass |
